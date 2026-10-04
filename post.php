@@ -73,9 +73,9 @@ define("REPLYBOX_TOP", 1); // show the 'reply' box at the top? doesn't affect th
 define("POSTTRUNCATE", 2000);
 define("FORMATCODE", 1);
 define("SCRIPTNAME", "post.php");
-define("ADMINPASS", "some password");
+define("ADMINPASS", "admin");
 define("ADMINTRIP", "the part after the ! in an admin's trip");
-define("SECRETKEY", "replace this string with something really random"); // something "random"
+define("SECRETKEY", "key"); // something "random"
 define("INFOFILE", "info"); // board rules/whatever
 define("SESSFILE", "session"); // where to store the session key
 define("URLROOT", "/blog/"); // root of the board, i.e the part after http://mychan.org
